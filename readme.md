@@ -1,6 +1,6 @@
 ### 原文都发布在steemit上，这里做些小整理。
 
-* [新人生存指南之一：steem介绍](https://steemit.com/steemit/@lemooljiang/3f5j36-steem#@showdand/re-lemooljiang-3f5j36-steem-20190115t151624705z)
+* [新人生存指南之一：steem介绍](https://steemit.com/steemit/@lemooljiang/3f5j36-steem)
 * [新人生存指南之二：科学上网注册 ]( https://steemit.com/cn/@lemooljiang/4xxuhj)
 * [新人生存指南之三：创作赚钱（更新版）]( https://steemit.com/cn/@lemooljiang/7dxgdv)
 * [新人生存指南之四：图文编辑三板斧（更新版）]( https://steemit.com/cn/@lemooljiang/4mddsq)
