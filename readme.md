@@ -16,3 +16,5 @@
 * [新人生存指南之十四：steemit上的长跑]( https://steemit.com/cn/@lemooljiang/6jrje-steemit)
 * [新人生存指南之十五：密码即一切]( https://steemit.com/cn/@lemooljiang/2dfqrq)
 * [新人生存指南之十六：基于steem的应用DAPP（更新版）]( https://steemit.com/cn/@lemooljiang/steem-dapp)
+
+**注意：因为原steemit.com在国内被墙，大家只需要把网址中的“steemit.com”换成"busy.org"即可正常浏览！**
